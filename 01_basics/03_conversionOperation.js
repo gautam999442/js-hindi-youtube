@@ -1,13 +1,13 @@
-let score = "himanshu"
+let score = 3
 
-//const {score} = req.body
+// const {score} = req.body
 
 // console.log(typeof score);
 // console.log(typeof (score));
 
-// let valueInNumber = Number(score)
+let valueInNumber = String(score)
 // console.log(typeof valueInNumber);
-// console.log(valueInNumber);
+console.log(valueInNumber);
 
 //"33" => 33
 //"33abc" => NaN
